@@ -10,4 +10,4 @@ I have experiance in:
 - Back end web development, for competitions and my own websites
 - Front end web development, I've experimented with React to create dynamic experiences
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-gent&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-gent&show_icons=true&theme=nord)
