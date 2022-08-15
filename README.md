@@ -2,7 +2,7 @@
 
 I'm currently working towards the IMechE UAS Challenge as the team leader of [Team Peryton](https://team-peryton.github.io).
 
-I have experiance in:
+I have experience in:
 - Data analysis, professionally at Jaguar Land Rover as well as applying this to my univeristy degree
 - Image recognition, For the UAS challenge using OpenCV
 - Controlling Ardupilot (a UAV autopilot) using Dronekit or LUA scripting
