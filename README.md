@@ -8,4 +8,3 @@ I have experience in:
 - Back end web development, for competitions and my own websites
 - Front end web development, I've experimented with React to create dynamic experiences
 
-I have some bits of UAV development on my own youtube channel: [ogent](https://www.youtube.com/channel/UCZr66PF8qm9jqRmPN1NgplA)
